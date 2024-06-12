@@ -1,3 +1,3 @@
-registry.cn-beijing.aliyuncs.com/io01:
+registry.cn-shanghai.aliyuncs.com/wangshuai-space/docker:
   username: "$ACR_USER"
   password: "$ACR_PASSWORD"

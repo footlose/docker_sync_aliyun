@@ -1,3 +1,1 @@
-nattertool/check:latest: registry.cn-shanghai.aliyuncs.com/wangshuai-space/natter_check
-nattertool/natter:latest: registry.cn-shanghai.aliyuncs.com/wangshuai-space/natter
-tailscale/tailscale:latest: registry.cn-shanghai.aliyuncs.com/wangshuai-space/tailscale
+shinsenter/phpfpm-nginx:php7.4-alpine: registry.cn-shanghai.aliyuncs.com/wangshuai-space/phpfpm-nginx:php7.4-alpine

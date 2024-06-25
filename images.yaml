@@ -1,1 +1,2 @@
 shinsenter/phpfpm-nginx:php7.4-alpine: registry.cn-shanghai.aliyuncs.com/wangshuai-space/phpfpm-nginx:php7.4-alpine
+cleverest/crproxy:latest: registry.cn-shanghai.aliyuncs.com/wangshuai-space/crproxy:latest

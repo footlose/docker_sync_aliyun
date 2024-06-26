@@ -1,3 +1,3 @@
 shinsenter/phpfpm-nginx:php7.4-alpine: registry.cn-shanghai.aliyuncs.com/wangshuai-space/phpfpm-nginx:php7.4-alpine
 cleverest/crproxy:latest: registry.cn-shanghai.aliyuncs.com/wangshuai-space/crproxy:latest
-mysql:8.4.0: registry.cn-shanghai.aliyuncs.com/wangshuai-space/mysql:8.4.0
+mysql:8.0.37: registry.cn-shanghai.aliyuncs.com/wangshuai-space/mysql:8.0.37
